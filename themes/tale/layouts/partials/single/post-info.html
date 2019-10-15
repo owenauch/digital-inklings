@@ -1,0 +1,8 @@
+<div class="post-info" style="margin-bottom: 16px">
+    <span>{{ i18n "writtenBy" }}</span>
+    Owen Auch
+
+    {{- if .PublishDate }}
+        <span>{{ i18n "on" }}&nbsp;</span><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
+    {{- end }}
+</div>

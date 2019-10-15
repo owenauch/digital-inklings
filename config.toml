@@ -1,0 +1,9 @@
+baseurl = "https://example.org/"
+title = "Blog"
+author = "Owen Auch"
+paginate = 3
+theme = "tale"
+sectionPagesMenu = "main"
+
+[Author]
+    name = "Owen Auch"

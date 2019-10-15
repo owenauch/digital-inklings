@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Blog"
+title = "Digital Inklings"
 author = "Owen Auch"
 paginate = 3
 theme = "tale"

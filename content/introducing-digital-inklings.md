@@ -14,8 +14,11 @@ But while I may have agreed in the past that tech and faith were unrelated, I've
 ### Motivations and goals for writing
 
 I hope to use this blog as a tool to help rethink my understanding of technology from the ground up, building a new way of thinking on the foundation of the gospel of Jesus. I'm focusing specifically on tech for a couple of reasons:
+
 * Digital technology has radically reshaped our world. Every facet of our lives has been transformed by phones, computers, and other technology. We need to think about how to live, work and play in our digital world in a holy way.
+
 * I lack a vision of what technology looks like in the kingdom of heaven. If the technology we create will ultimately be redeemed and perfected as a part of heaven one day (which I believe it will be — spoiler alert for a future post), it's worth asking the question what that redeemed technology looks like and how we can move towards it in our work today.
+
 * Because there are few Christians in the world of tech, I desire to provide a Christian voice in the conversation around technology. Because technology is so culturally powerful, the ideas we have about it are important to the lives of people all over the world. I want the Christian worldview to be represented in those ideas.
 
 But despite my desire to have a voice in conversations about technology, my ultimate goal of writing is to learn and understand for my own sake. Writing is the most effective form of thinking for me — forcing myself to write about technology and faith will bring far more clarity to these topics than just allowing ideas to bounce around in my head. As a result, these posts will likely be exploratory in nature and focused on nuanced understanding rather than giving clean positions and answers (similar to [Paul Graham's philosophy on essays](http://www.paulgraham.com/essay.html)).

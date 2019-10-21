@@ -1,7 +1,7 @@
 ---
 title: "Introducing Digital Inklings"
 date: 2019-10-14T22:33:12-07:00
-draft: true
+draft: false
 ---
 I'm a software engineer in San Francisco. I'm also a Christian. These two identities don't often coexist. In the words of Erlich Bachman from the TV show *Silicon Valley*:
 

@@ -14,7 +14,7 @@ We are introduced to the idea of human progress in the very first chapter of the
 
 > God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground." <br> - Genesis 1:29
 
-Read that again, slower this time. God, who created everything, 
+ 
 
 
 

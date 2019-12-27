@@ -4,7 +4,7 @@ date: 2019-12-27T03:08:34+00:00
 draft: false
 ---
 
-<img src="cape-town.JPG" width="100%"/>
+<img src="https://www.digitalinklingsblog.com/cape-town.JPG" width="100%"/>
 
 One of the most shocking revelations I've ever had about work came in the middle of a field in Africa. Last summer, two friends and I traveled to South Africa to volunteer with [Living Hope](http://www.livinghope.co.za/), a charitable organization in Cape Town. South Africa has the largest HIV epidemic in the world, with [over 20% of the population testing positive for the disease](https://www.avert.org/professionals/hiv-around-world/sub-saharan-africa/south-africa), and we expected to be volunteering in Living Hope's clinic that serves HIV patients in a poor neighborhood of Cape Town.
 
@@ -13,6 +13,9 @@ When we arrived, we learned that Living Hope had assigned us to work on another 
 Whatever notions I had about volunteering being glamorous or exciting were immediately crushed.<sup>[1](#1)</sup> We were given garden hoes by the farm staff and told that our task was to plow a field so they could plant lettuce on it the next week. For the next several days, we spent seven hours a day plowing a field. It was miserable. Our backs throbbed no matter how much we experimented with different plowing techniques. We layered gloves upon gloves to try to prevent blisters, to no avail. We had to keep taping one of the hoes back together with duct tape when it inevitably fell apart. The sun was hot, we were covered in dirt, and we made incredibly slow progress.
 
 On the second day of plowing, I remember being extremely frustrated. It felt like our desire to volunteer was being wasted in that field. We had come halfway across the world, three well-educated volunteers excited to care about the sick, and instead we were plowing a field. I thought of the giant machines I'd seen back home that could certainly do the job that was taking us days in a matter of minutes.
+
+<img src="https://www.digitalinklingsblog.com/plowing.jpg" width="100%"/>
+*Actual photos of us plowing*
 
 But standing in that field, I experienced my shocking realization, which may seem unrelated at first but track with me. Jesus was killed at 33 years old, but he didn't start his public ministry until he was 30. He spent the first 30 years of his life as a carpenter.<sup>[2](#2)</sup> Most of his day was likely spent doing unskilled, manual labor that anyone could have done: carrying things from place to place, cutting things over and over, and so on.
 

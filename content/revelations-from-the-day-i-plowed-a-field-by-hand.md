@@ -14,8 +14,8 @@ Whatever notions I had about volunteering being glamorous or exciting were immed
 
 On the second day of plowing, I remember being extremely frustrated. It felt like our desire to volunteer was being wasted in that field. We had come halfway across the world, three well-educated volunteers excited to care about the sick, and instead we were plowing a field. I thought of the giant machines I'd seen back home that could certainly do the job that was taking us days in a matter of minutes.
 
-<img src="https://www.digitalinklingsblog.com/plowing.jpg" width="100%"/>
-*Actual photos of us plowing*
+<img src="https://www.digitalinklingsblog.com/plowing.jpg" width="75%"/>
+*My friend Julius plowing. Notice the duct tape on the blade of the hoe.*
 
 But standing in that field, I experienced my shocking realization, which may seem unrelated at first but track with me. Jesus was killed at 33 years old, but he didn't start his public ministry until he was 30. He spent the first 30 years of his life as a carpenter.<sup>[2](#2)</sup> Most of his day was likely spent doing unskilled, manual labor that anyone could have done: carrying things from place to place, cutting things over and over, and so on.
 

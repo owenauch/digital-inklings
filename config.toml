@@ -5,5 +5,9 @@ paginate = 3
 theme = "tale"
 sectionPagesMenu = "main"
 
+[params]
+  description = "Digital Inklings: A blog at the intersection of technology and faith."
+  images = ["cloud-lake.JPG"]
+
 [Author]
     name = "Owen Auch"

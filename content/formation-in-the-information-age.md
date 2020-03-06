@@ -2,6 +2,11 @@
 title: "Formation in the Information Age"
 date: 2020-03-06T03:08:34+00:00
 draft: false
+
+description: The intersection of digital technology and spiritual formation.
+images:
+- cloud-lake.JPG
+title: Formation in the Information Age
 ---
 
 ![Lake in the clouds](/cloud-lake.JPG)

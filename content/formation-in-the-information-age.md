@@ -7,6 +7,7 @@ description: "Digital Inklings: A blog at the intersection of technology and fai
 images:
 - cloud-lake.JPG
 title: Formation in the Information Age
+url: /formation-in-the-information-age/
 ---
 
 ![Lake in the clouds](/cloud-lake.JPG)

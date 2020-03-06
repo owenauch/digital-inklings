@@ -4,7 +4,7 @@ date: 2019-12-27T03:08:34+00:00
 draft: false
 ---
 
-<img src="https://www.digitalinklingsblog.com/cape-town.JPG" width="100%"/>
+![Lion's head mountain](/cape-town.JPG)
 
 One of the most shocking revelations I've ever had about work came in the middle of a field in Africa. Last summer, two friends and I traveled to South Africa to volunteer with [Living Hope](http://www.livinghope.co.za/), a charitable organization in Cape Town. South Africa has the largest HIV epidemic in the world, with [over 20% of the population testing positive for the disease](https://www.avert.org/professionals/hiv-around-world/sub-saharan-africa/south-africa), and we expected to be volunteering in Living Hope's clinic that serves HIV patients in a poor neighborhood of Cape Town.
 
@@ -37,7 +37,7 @@ I wonder if I could spend 30 years working in a field and believe that my work i
 
 I would happily go back to South Africa and plow that field ten times over in exchange for a few extra chapters in one of the Gospels that discussed Jesus's life as a carpenter. I wonder how he approached it, what his habits looked like, how he worked with others, but I can only speculate on these things. But the fact that he did manual labor at all pushes me to change my perspective, to stop seeing certain work as beneath me, and to honor the people around me that do the simple but crucial work that I often overlook.
 
-#### Footnotes
+### Footnotes
 <a name="1">1</a>. Wanting volunteer work to be glamorous or fulfilling is one of the fundamental problems with things like short-term mission trips, so I admit that this was a bad assumption to come in with, but it's hard to avoid thinking that way.
 
 <a name="2">2</a>. In fact, carpenter might be too skilled of a role for what Jesus did. Some scholars have argued that he was [more of a common laborer or builder](https://www.christianity.com/wiki/jesus-christ/was-jesus-actually-a-carpenter.html) than a skilled carpenter.

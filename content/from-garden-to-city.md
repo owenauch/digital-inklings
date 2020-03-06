@@ -68,7 +68,7 @@ it was here before our time. <br><br>
 
 The author recognizes the fact that no matter how much progress we make, nothing about our condition ultimately changes. We may have better technology and richer culture and better health and tastier food, but the things that give life richness, like relationships and beauty, and the things that cause us to feel the brokenness of the world, like evil and death, are still present and fundamentally the same regardless of all our progress. So while all these advancements are worth striving to acheive, we can't become obsessed with trying to bring a vision of utopia to our current world. We will one day experience heaven, a utopia which will truly be unlike anything we've ever seen before — a truly new thing under the sun. But until then, we need to have grounded dreams of progress, recognizing that we can't fully heal the brokenness of the world, but daring to imagine a time when the progress we dream of will finally be reality.
 
-#### Footnotes
+### Footnotes
 <a name="1">1</a>. For example, a certain founder's claim to be able to [detect hundreds of diseases with only a single drop of blood]((https://en.wikipedia.org/wiki/Elizabeth_Holmes#Theranos)).
 
 <a name="2">2</a>. As much as it pains me, everyone wins when these get broken up into smaller articles.

@@ -2,6 +2,11 @@
 title: "Revelations From the Day I Plowed a Field by Hand"
 date: 2019-12-27T03:08:34+00:00
 draft: false
+
+description: "Digital Inklings: A blog at the intersection of technology and faith."
+images:
+- cape-town.JPG
+title: Revelations From the Day I Plowed a Field by Hand
 ---
 
 ![Lion's head mountain](/cape-town.JPG)

@@ -2,6 +2,11 @@
 title: "Introducing Digital Inklings"
 date: 2019-10-14T22:33:12-07:00
 draft: false
+
+description: "Digital Inklings: A blog at the intersection of technology and faith."
+images:
+- cloud-lake.JPG
+title: Introducing Digital Inklings
 ---
 I'm a software engineer in San Francisco. I'm also a Christian. These two identities don't often coexist. In the words of Erlich Bachman from the TV show *Silicon Valley*:
 

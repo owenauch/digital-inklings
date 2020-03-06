@@ -2,6 +2,11 @@
 title: "From Garden to City"
 date: 2019-11-15T07:51:39+00:00
 draft: false
+
+description: "Digital Inklings: A blog at the intersection of technology and faith."
+images:
+- https://tmrwedition.files.wordpress.com/2017/02/7a4c4b9d9a127b02f7a7ba5552b30485.jpg?w=840
+title: From Garden to City
 ---
 
 <img src="https://tmrwedition.files.wordpress.com/2017/02/7a4c4b9d9a127b02f7a7ba5552b30485.jpg?w=840  " width="100%"/>

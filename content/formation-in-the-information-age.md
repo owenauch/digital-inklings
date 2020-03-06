@@ -148,10 +148,10 @@ The tension is confusing and challenging, but it's much more rich and complete. 
 
 <a name="14">14</a>. All subjects are a theology in a sense, so I really couldn’t give it up if I tried.
 
-<a name="15">15</a>. Many people use fasting as a way to increase discipline and improve health, which is awesome but not a formational practice of fasting. The spiritual discipline of fasting is more focused on denying something that you want and need for a short while as a way to prioritize God, who you want and need far more than food.
+<a name="15">15</a>. It's short!
 
-<a name="16">16</a>. A big word for making one day a week focused on joy and rest.
+<a name="16">16</a>. Many people use fasting as a way to increase discipline and improve health, which is awesome but not a formational practice of fasting. The spiritual discipline of fasting is more focused on denying something that you want and need for a short while as a way to prioritize God, who you want and need far more than food.
 
-<a name="17">17</a>. It's short!
+<a name="17">17</a>. A big word for making one day a week focused on joy and rest.
 
 <a name="18">18</a>. If anyone knows of a good 3D movie that isn't Avatar let me know because I'm not sure one exists. Pretend I'm talking about exclusively Avatar when I talk about the experience of a 3D movie being good.

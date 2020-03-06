@@ -3,6 +3,7 @@ title: "Formation in the Information Age"
 date: 2020-03-06T03:08:34+00:00
 draft: false
 
+description: "Digital Inklings: A blog at the intersection of technology and faith."
 images:
 - cloud-lake.JPG
 title: Formation in the Information Age

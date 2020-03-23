@@ -12,7 +12,7 @@ with open(sys.argv[1], 'r') as fh:
             footnote = text[1].split('}')
             footnote_text = footnote[0]
             footnotes[footnote_count] = footnote_text
-            final_line = f"{text[0]}<sup>[{footnote_count}](#{footnote_count})</sup>{footnote[1]}"
+            final_line = f'{text[0]}<sup id="ref-{footnote_count}">[{footnote_count}](#{footnote_count})</sup>{footnote[1]}'
             lines.append(final_line)
         else:
             lines.append(line)
@@ -24,4 +24,4 @@ with open(sys.argv[1], 'w') as fh:
 
     fh.write("\n#### Footnotes\n")
     for key, value in footnotes.items():
-        fh.write(f'\n<a name="{key}">{key}</a>. {value}\n')
+        fh.write(f'\n<a name="{key}">[{key}](#ref-{key})</a>. {value}\n')

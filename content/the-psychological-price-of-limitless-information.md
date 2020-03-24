@@ -1,7 +1,7 @@
 ---
 title: "The Psychological Price of Limitless Information"
 date: 2020-03-24T23:42:01-07:00
-draft: false
+draft: true
 
 description: "To know everything, we have to allow everything about us to be known. Is it worth the price?"
 images:

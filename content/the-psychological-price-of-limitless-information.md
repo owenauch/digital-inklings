@@ -9,8 +9,6 @@ images:
 title: The Psychological Price of Limitless Information
 ---
 
-![](https://cdn-images-1.medium.com/max/11520/0*LI69WCxb1R9C-ZFl)
-
 I haven’t sat and wondered about anything in years. Every question that pops into my head at any time, from merely interesting questions (“What’s the world’s largest breed of dog?”) to potentially life-altering ones (“Is it bad if I have tingling in my left arm?”), can be typed into the supercomputer in my pocket and answered instantly and freely. Similarly, I don’t have to wonder what my friends are up to — instead, I just log into Facebook and can know all about their lives, once again instantly and freely. While ancient people spent fortunes to build tiny libraries of books, every single person with a smartphone has access to more information than all of pre-21st century humanity combined.
 
 This is incredible — we can listen to any song ever recorded, learn about any topic, and share our views and express ourselves digitally without any friction. It’s literally [addictive](https://www.nbcnews.com/mach/science/surprising-ways-smartphones-affect-our-brains-our-lives-ncna947566) to have access to this much information, and while we have a long way to go in learning how to use this technology in healthy ways, our phones and the Internet give us superpowers unimaginable to previous generations.

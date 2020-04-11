@@ -3,14 +3,12 @@ title: "Formation in the Information Age"
 date: 2020-03-06T03:08:34+00:00
 draft: false
 
-description: "Digital Inklings: A blog at the intersection of technology and faith."
+description: "Modern technology gives us the ability to form our world like never before. But in our power, we forget our need to be formed too."
 images:
-- cloud-lake.JPG
+- /cloud-lake.JPG
 title: Formation in the Information Age
 url: /formation-in-the-information-age/
 ---
-
-![Lake in the clouds](/cloud-lake.JPG)
 
 I want you to close your eyes<sup id="ref-1">[1](#1)</sup> and imagine yourself in the shoes of a person I'm about to describe. 
 

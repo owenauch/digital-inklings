@@ -1,11 +1,11 @@
 <a href="{{ .Permalink }}" class="catalogue-item">
     <div>
         <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ i18n "publishdate" . }}</time>
+        <img src="{{ index (.Params.Images) 0}}" style="width: 100%; margin-top: 13px;"/>
         <h1 class="catalogue-title">{{ .Title }}</h1>
         <div class="catalogue-line"></div>
-
-        <p>
-            {{ if isset .Params "summary" }}{{ .Params.Summary | markdownify }}{{ else }}{{ .Summary }}{{ end }}
+        <p style="font-size: 18px;">
+            {{ if isset .Params "description" }}{{ .Params.Description | markdownify }}{{ else }}{{ .Summary }}{{ end }}
         </p>
     </div>
 </a>

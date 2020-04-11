@@ -3,12 +3,11 @@ title: "From Garden to City"
 date: 2019-11-15T07:51:39+00:00
 draft: false
 
+description: "The Biblical narrative of progress gives us a glimpse of a redeemed vision for technology today."
 images:
 - https://tmrwedition.files.wordpress.com/2017/02/7a4c4b9d9a127b02f7a7ba5552b30485.jpg?w=840
 title: From Garden to City
 ---
-
-<img src="https://tmrwedition.files.wordpress.com/2017/02/7a4c4b9d9a127b02f7a7ba5552b30485.jpg?w=840  " width="100%"/>
 
 American culture is obsessed with the idea of progress. Progress has been embedded in the American narrative from the very beginning of the country's history, as colonists arrived and continually moved west in the belief that something more, something better, always awaited them tomorrow. The American Dream is the continuation of that idea of Manifest Destiny — we always believe that there's a better life out there if we're willing to work hard. And while Manifest Destiny and the American Dream have rightfully been criticized for the horrible suffering they inflicted and continue to inflict on Native Americans, African Americans, and other groups, the idea of progress at their root persists more strongly in Silicon Valley than virtually anywhere else. Rather than being laughed at, wildly optimistic visions of the future are encouraged (and often backed by large amounts of money). And while the claims made are often fantastic and far from reality<sup id="ref-1">[1](#1)</sup>, Silicon Valley's optimism is validated by the radical reshaping of society according to the vision of leaders of tech companies like Apple, Google, Facebook and Microsoft in recent years.
 

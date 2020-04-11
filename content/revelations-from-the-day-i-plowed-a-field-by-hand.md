@@ -3,12 +3,11 @@ title: "Revelations From the Day I Plowed a Field by Hand"
 date: 2019-12-27T03:08:34+00:00
 draft: false
 
+description: "Before Jesus was a teacher, he was a carpenter. What can we learn about work from the first 30 years of Jesus' life?"
 images:
-- cape-town.JPG
+- /cape-town.JPG
 title: Revelations From the Day I Plowed a Field by Hand
 ---
-
-![Lion's head mountain](/cape-town.JPG)
 
 One of the most shocking revelations I've ever had about work came in the middle of a field in Africa. Last summer, two friends and I traveled to South Africa to volunteer with [Living Hope](http://www.livinghope.co.za/), a charitable organization in Cape Town. South Africa has the largest HIV epidemic in the world, with [over 20% of the population testing positive for the disease](https://www.avert.org/professionals/hiv-around-world/sub-saharan-africa/south-africa), and we expected to be volunteering in Living Hope's clinic that serves HIV patients in a poor neighborhood of Cape Town.
 

@@ -1,7 +1,7 @@
 baseurl = "https://www.digitalinklingsblog.com"
 title = "Digital Inklings"
 author = "Owen Auch"
-paginate = 3
+paginate = 10
 theme = "tale"
 sectionPagesMenu = "main"
 description = "Digital Inklings: A blog at the intersection of technology and faith."

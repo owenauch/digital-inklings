@@ -40,9 +40,14 @@
     url('/fonts/libre-baskerville-v7-latin-italic.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
 }
 
-
+/* Random CSS because I'm lazy */
 @media (max-width: 750px) {
     .post-title {
           font-size: 2.4rem;
      }
+}
+
+.arrow {
+    font-size: larger;
+    font-weight: bolder;
 }

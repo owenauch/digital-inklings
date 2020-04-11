@@ -1,8 +1,9 @@
 		<nav class="nav">
-			<div class="nav-container">
+			<div class="nav-container" style="display: flex; flex-direction: row; justify-content: space-between;">
 				<a href="{{ "/" | relURL }}">
 					<h2 class="nav-title">{{ .Site.Title }}</h2>
 				</a>
+				<h4 style="align-self: flex-start;">About</h3>
 				{{ partial "header-menu.html" . }}
 			</div>
 		</nav>

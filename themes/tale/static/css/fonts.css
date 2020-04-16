@@ -45,6 +45,10 @@
     .post-title {
           font-size: 2.4rem;
      }
+
+     .about-link {
+         display: none;
+     }
 }
 
 .arrow {

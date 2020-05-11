@@ -4,7 +4,7 @@
         <img src="{{ index (.Params.Images) 0}}" style="width: 100%; margin-top: 13px;"/>
         <h1 class="catalogue-title">{{ .Title }}</h1>
         <div class="catalogue-line"></div>
-        <p style="font-size: 18px;">
+        <p style="font-size: 1.05rem;">
             {{ if isset .Params "description" }}{{ .Params.Description | markdownify }}{{ else }}{{ .Summary }}{{ end }}
         </p>
     </div>

@@ -4,7 +4,8 @@ date: 2020-05-10T19:29:48-07:00
 draft: true
 
 images:
-- cloud-lake.JPG
+- /dark-computer.jpeg
+description: "As quarantine digitizes all of our normal activities, there's something missing at the heart of all our online connection."
 ---
 
 If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in this season in a personal Renaissance like Bob Dylan producing *The Basement Tapes*.<sup id="ref-1">[1](#1)</sup> If Shakespeare wrote *King Lear* during plague quarantine, surely I could do something during my quarantine.
@@ -53,8 +54,7 @@ Video calls promise the world and seem close to the real thing, but often leave 
 
 A lot of life has this combination of joy and anxiety, which makes me wonder: what if there was technology that amplified the joy part of an experience while dulling the anxiety part? Would it be like the opposite of video calls, where instead of hiding from it, we instinctively gravitate towards it?
 
-
-![WALL-E Fat People](https://paper-attachments.dropbox.com/s_FA753C33B78AA6E599FD9EEEE31EA4F329B726ED4947AF52D937233CA4A46942_1589082476711_WALL-E.jpg)
+![WALL-E Fat People](/WALL-E.jpeg)
 <p style="text-align:center; font-style: italic; font-size: 90%">WALL-E scarred my generation of kids, making us think that playing Gamecube would make us turn into these people. Maybe it was for the best.</p>
 
 

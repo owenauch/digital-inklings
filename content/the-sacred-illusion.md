@@ -5,7 +5,7 @@ draft: true
 
 images:
 - /dark-computer.jpeg
-description: "As quarantine digitizes all of our normal activities, there's something missing at the heart of all our online connection."
+description: "As quarantine digitizes all of our normal activities, there's something missing at the heart of our online connections."
 ---
 
 If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in this season in a personal Renaissance like Bob Dylan producing *The Basement Tapes*.<sup id="ref-1">[1](#1)</sup> If Shakespeare wrote *King Lear* during plague quarantine, surely I could do something during my quarantine.
@@ -76,6 +76,7 @@ Furthermore, [the belief that Jesus was the human embodiment of God](https://www
 
 We all deeply miss the physicality of our relationships in this moment. We spend a lot of time talking, but the ways that we care for each other physically matter just as much — a hug, sharing food, eye contact, singing together, throwing a frisbee. It might be obvious, but there’s something to physical presence that is not and cannot be captured by a video camera and a screen. Our digital substitutes for physical presence are good, and despite burnout, I’m thankful for the ability to see the faces of my friends and family to help ease the social pain of quarantine. But we need the physical, with all of its messiness and danger and inconvenience, and I’m hopeful that when we get it back soon enough, it will taste a little bit sweeter having known its absence.
 
+*Huge thanks to Johnny Rodriguez, who encouragement to start writing again helped me to shake off my quarantine lethargy long enough to work on this. He's one of the many friends I can't wait to see in person again.*
 
 #### Footnotes
 

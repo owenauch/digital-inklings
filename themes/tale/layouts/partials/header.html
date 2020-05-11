@@ -3,9 +3,15 @@
 				<a href="{{ "/" | relURL }}">
 					<h2 class="nav-title">{{ .Site.Title }}</h2>
 				</a>
-				<a class="about-link" style="align-self: center; margin: 0" href="/introducing-digital-inklings/">
-					<h4 style="margin: 0">About</h3>
-				</a>
+				<div class="links-wrapper">
+					<a class="about-link" href="/introducing-digital-inklings/" style="align-self: center;">
+						<h4 style="margin: 0">About</h3>
+					</a>
+					<p style="margin: 0 10px; color: black">|</p>
+					<a class="about-link" href="#newsletter-form" style="align-self: center;">
+						<h4 style="margin: 0">Newsletter</h3>
+					</a>
+				<div>
 				{{ partial "header-menu.html" . }}
 			</div>
 		</nav>

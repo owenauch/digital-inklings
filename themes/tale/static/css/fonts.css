@@ -40,16 +40,21 @@
     url('/fonts/libre-baskerville-v7-latin-italic.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
 }
 
+.links-wrapper {
+    align-self: center; margin: 0; display: flex; flex-direction: row;
+}
+
 /* Random CSS because I'm lazy */
 @media (max-width: 750px) {
     .post-title {
           font-size: 2.4rem;
      }
 
-     .about-link {
+     .links-wrapper {
          display: none;
      }
 }
+
 
 .arrow {
     font-size: larger;

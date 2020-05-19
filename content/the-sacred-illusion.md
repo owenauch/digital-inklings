@@ -6,6 +6,7 @@ draft: false
 images:
 - /dark-computer.jpeg
 description: "As quarantine digitizes all of our normal activities, there's something missing at the heart of our online connections."
+title: The Sacred Illusion
 ---
 
 If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in a personal Renaissance like Bob Dylan producing *The Basement Tapes*.<sup id="ref-1">[1](#1)</sup> If Shakespeare wrote *King Lear* during plague quarantine, surely I could do something during my quarantine.

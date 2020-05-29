@@ -1,9 +1,9 @@
 ---
 title: "My Messy Analytics Breakup"
 date: 2020-05-28T21:47:59-07:00
-draft: true
+draft: false
 
-description: "Before Jesus was a teacher, he was a carpenter. What can we learn about work from the first 30 years of Jesus' life?"
+description: "In a fit of righteous indignation, I tried to cut ties with Google Analytics. It turns out that digital breakups are just as messy as romantic ones."
 images:
 - "/wood-mountain.JPG"
 title: My Messy Analytics Breakup

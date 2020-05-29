@@ -22,7 +22,7 @@ As a developer, installing Google Analytics could not be easier: just create an 
 
 Google Analytics also uses its cookie to identify you, but for a different purpose. Once that cookie has been installed, each time you load a page that is running Google Analytics, the same code snippet from before will read your cookie, identify you, and send a message to Google letting them know that you visited that page. Google then cleans up the data and creates beautiful dashboards that the developer (yours truly) can use to get his hit of dopamine.
 
-![It doesn’t take a data scientist to figure out when I posted an article using this dashboard.](https://paper-attachments.dropbox.com/s_F1DDDAACF2CCFAD190BBA32A3D3B0EAC46D724A4F691946994EE87B4278838BA_1590335296633_Screen+Shot+2020-05-24+at+8.48.05+AM.png)
+![It doesn’t take a data scientist to figure out when I posted an article using this dashboard.](/ga.png)
 <p style="text-align:center; font-style: italic; font-size: 90%">It doesn’t take a data scientist to figure out when I posted an article using this dashboard.</p>
 
 
@@ -47,7 +47,7 @@ Digital Inklings is a just a molecule of water in the vast ocean of the internet
 
 I’ll spare you the gory technical details of the analytics service that I built, but the end product, real time graphs of visitors to the site, are publicly visible [here](https://charts.mongodb.com/charts-project-0-kqhxm/public/dashboards/0678ba8c-5e5f-4396-9dd6-d1dfc228b134), and I’ve included a screenshot below.
 
-![](https://paper-attachments.dropbox.com/s_F1DDDAACF2CCFAD190BBA32A3D3B0EAC46D724A4F691946994EE87B4278838BA_1590435182167_Screen+Shot+2020-05-25+at+12.31.59+PM.png)
+![](/jank.png)
 
 
 If you compare my service with Google Analytics, you’ll notice one main thing — my service sucks. It only tracks one metric, pageloads, and can only split it up by what page you viewed and your IP address (which is my somewhat-error-prone proxy for unique users). Compare this with Google, which will tell you a user’s device, location, previous website visited, and much more. The graphs for my service are ugly, and unlike in Google’s dashboard, I can’t easily resize them to any period of time that I want or aggregate the results over a time period. I have no ability to know how many people are actively looking at the site at any given time, and I still have problems with date and time. There is literally no one on earth who would say that my service is “better” than Google Analytics.

@@ -44,6 +44,10 @@
     align-self: center; margin: 0; display: flex; flex-direction: row;
 }
 
+.post-title {
+    font-size: 3rem;
+}
+
 /* Random CSS because I'm lazy */
 @media (max-width: 750px) {
     .post-title {
@@ -52,6 +56,10 @@
 
      .links-wrapper {
          display: none;
+     }
+
+     .post {
+         padding: 1.5rem 0;
      }
 }
 

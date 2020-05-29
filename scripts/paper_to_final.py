@@ -28,4 +28,5 @@ with open(sys.argv[1], 'w') as fh:
 
     fh.write("\n#### Footnotes\n")
     for idx, footnote in enumerate(footnotes):
+        idx += 1
         fh.write(f'\n<a name="{idx}">[{idx}](#ref-{idx})</a>.{footnote}\n')

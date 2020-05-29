@@ -7,5 +7,8 @@ sectionPagesMenu = "main"
 description = "Digital Inklings: A blog at the intersection of technology and faith."
 images = ["cloud-lake.JPG"]
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [Author]
     name = "Owen Auch"
